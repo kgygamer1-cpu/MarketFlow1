@@ -1,0 +1,1 @@
+import type { CapacitorConfig } from '@capacitor/cli'; const config: CapacitorConfig = { appId: 'com.marketflow.dashboard', appName: 'MarketFlow', webDir: 'dist', bundledWebRuntime: false }; export default config;
